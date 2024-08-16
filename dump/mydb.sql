@@ -8,7 +8,7 @@ CREATE TABLE `Person` (
 
 
 INSERT INTO `Person` (`id`, `name`) VALUES
-(1, 'Ranjit'),
-(2, 'Rakesh'),
-(3, 'Dinesh'),
-(4, 'Karthik');
+(1, 'Pardeep'),
+(2, 'Gautam'),
+(3, 'Aditya'),
+(4, 'Amit');
